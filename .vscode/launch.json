@@ -1,0 +1,147 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Anonymous",
+            "request": "launch",
+            "mainClass": "TEST2.Inner_Classes.Anonymous",
+            "projectName": "programming_ae7dc4c0"
+        },
+        {
+            "type": "java",
+            "name": "DBTest",
+            "request": "launch",
+            "mainClass": "TEST2.Dynamic_Binding.DBTest",
+            "projectName": "programming_ae7dc4c0"
+        },
+        {
+            "type": "java",
+            "name": "SuperTest",
+            "request": "launch",
+            "mainClass": "TEST2.Constructor_chaining_using_super.SuperTest",
+            "projectName": "programming_ae7dc4c0"
+        },
+        {
+            "type": "java",
+            "name": "Dog",
+            "request": "launch",
+            "mainClass": "TEST2.Constructor_chaining_using_super.Dog",
+            "projectName": "programming_ae7dc4c0"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "ArrayExample",
+            "request": "launch",
+            "mainClass": "ArrayExample",
+            "projectName": "programming_ae7dc4c0"
+        },
+        {
+            "type": "java",
+            "name": "Bubble",
+            "request": "launch",
+            "mainClass": "Bubble",
+            "projectName": "programming_ae7dc4c0"
+        },
+        {
+            "type": "java",
+            "name": "DemoA",
+            "request": "launch",
+            "mainClass": "DemoA",
+            "projectName": "programming_ae7dc4c0"
+        },
+        {
+            "type": "java",
+            "name": "DoublyLinkedList",
+            "request": "launch",
+            "mainClass": "DoublyLinkedList",
+            "projectName": "programming_ae7dc4c0"
+        },
+        {
+            "type": "java",
+            "name": "HashTableExample",
+            "request": "launch",
+            "mainClass": "HashTableExample",
+            "projectName": "programming_ae7dc4c0"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "Personal.App",
+            "projectName": "programming_ae7dc4c0"
+        },
+        {
+            "type": "java",
+            "name": "Priority_Queue",
+            "request": "launch",
+            "mainClass": "Priority_Queue",
+            "projectName": "programming_ae7dc4c0"
+        },
+        {
+            "type": "java",
+            "name": "QueueExample",
+            "request": "launch",
+            "mainClass": "QueueExample",
+            "projectName": "programming_ae7dc4c0"
+        },
+        {
+            "type": "java",
+            "name": "StackExample",
+            "request": "launch",
+            "mainClass": "StackExample",
+            "projectName": "programming_ae7dc4c0"
+        },
+        {
+            "type": "java",
+            "name": "Constructor_Chaining",
+            "request": "launch",
+            "mainClass": "TEST2.Constructor_Chaining",
+            "projectName": "programming_ae7dc4c0"
+        },
+        {
+            "type": "java",
+            "name": "Deserialization",
+            "request": "launch",
+            "mainClass": "TEST2.Deserialization",
+            "projectName": "programming_ae7dc4c0"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "TEST2.Main",
+            "projectName": "programming_ae7dc4c0"
+        },
+        {
+            "type": "java",
+            "name": "Serialization",
+            "request": "launch",
+            "mainClass": "TEST2.Serialization",
+            "projectName": "programming_ae7dc4c0"
+        },
+        {
+            "type": "java",
+            "name": "Level_order_traversal",
+            "request": "launch",
+            "mainClass": "dsa_assignment_1A.Level_order_traversal",
+            "projectName": "programming_ae7dc4c0"
+        },
+        {
+            "type": "java",
+            "name": "TreeTraversal",
+            "request": "launch",
+            "mainClass": "dsa_assignment_1B.TreeTraversal",
+            "projectName": "programming_ae7dc4c0"
+        }
+    ]
+}
